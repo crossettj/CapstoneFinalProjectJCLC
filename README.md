@@ -2,14 +2,14 @@
 
 # DONE:
 
-put CSV files into data folder
-add requirements
-read csv files
-Use Api to retreive IMF data
-Data Exploration
-Data Cleaning
-Upload to database
-Analytics and Dashboard
+1. put CSV files into data folder
+2. add requirements
+3. read csv files
+4. Use Api to retreive IMF data
+5. Data Exploration
+6. Data Cleaning
+7. Upload to database
+8. Analytics and Dashboard
 
 #TODO
 
@@ -19,4 +19,28 @@ Analytics and Dashboard
 
 ## Data Folder
 
-Includes the raw 
+Includes the raw CSVs for the three csv based data sources
+
+## docker_Final folder
+
+Includes the docker compose file needed to create the link
+
+## gitignore
+
+used to hide json file containing the api key
+
+## analytics.sql
+
+used to perform investigation into relationships that could be difficult to visualize in metabase
+
+## capstone.ipynb
+
+used to retreive all data, explore data, clean data, and write to database
+
+## Proposal Template
+
+The idea and motavation behind our project
+
+## requirements.txt
+
+all needed installs in order to successfully run the capstone.ipynb document

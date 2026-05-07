@@ -12,14 +12,7 @@
 6. Data Cleaning
 7. Upload to database
 8. Analytics and Dashboard
-
-##TODO
-
-finsihed
-
-##PLANS
-
-finsihed
+   
 
 # Files
 

@@ -15,11 +15,11 @@
 
 ##TODO
 
- 
+finsihed
 
 ##PLANS
 
- 
+finsihed
 
 # Files
 

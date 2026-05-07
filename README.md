@@ -1,6 +1,8 @@
 # CapstoneFinalProjectJCLC
 
-# DONE:
+# Project Flow
+
+## DONE:
 
 1. put CSV files into data folder
 2. add requirements
@@ -11,9 +13,9 @@
 7. Upload to database
 8. Analytics and Dashboard
 
-#TODO
+##TODO
 
-#PLANS
+##PLANS
 
 # Files
 
